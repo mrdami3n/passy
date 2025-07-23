@@ -6,7 +6,7 @@
 
 A secure, local-first desktop password manager built with Python and PyQt5. Passy helps you manage your sensitive information—passwords, secure notes, and crypto wallet details—with robust encryption and modern security features.
 
-Created by **Dami3n Thron** of **Thorn Industries**.
+Created by **[Dami3n Thorn](https://x.com/dami3nthorn)** of **Thorn Industries**.
 
 -----
 
