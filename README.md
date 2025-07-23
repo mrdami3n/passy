@@ -121,4 +121,4 @@ A window will open, prompting you to either create a new account or log in.
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [License](https://github.com/mrdami3n/passy/blob/main/LICENSE) file for details.
