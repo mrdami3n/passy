@@ -90,10 +90,8 @@ You need to have Python 3 installed on your system. You can download it from [py
 Once the setup is complete, you can run the application with a single command:
 
 ```sh
-python your_main_file_name.py
+python passy.py
 ```
-
-*(Replace `your_main_file_name.py` with the actual name of your Python file).*
 
 A window will open, prompting you to either create a new account or log in.
 
